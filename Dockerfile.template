@@ -1,0 +1,3 @@
+FROM scratch
+# The following ubuntu base is only an example.
+ADD ubuntu-base-22.04-base-amd64.tar.gz /
